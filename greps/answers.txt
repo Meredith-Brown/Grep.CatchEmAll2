@@ -1,36 +1,65 @@
 # Part 1
 ### a)
 
-
+see .txt file
 
 
 ### b)
 
+see .txt file
 
 
 ### c)
 
-
-
-
-
-
-
-
-
-
-
+see .txt file
 
 
 # Part 2
 ### a)
 
-
-
-
+see .txt file
 
 
 ### b)
+
+Beedrill
+Charizard
+Pikachu
+
+meredith@Zipcoders-MacBook-Pro-2 forest % grep bulb filescan_00.1 | wc -l
+      30
+meredith@Zipcoders-MacBook-Pro-2 forest % grep butt filescan_00.1 | wc -l
+      38
+meredith@Zipcoders-MacBook-Pro-2 forest % grep beed filescan_00.1 | wc -l
+      40
+meredith@Zipcoders-MacBook-Pro-2 forest % grep blas filescan_00.1 | wc -l
+      38
+meredith@Zipcoders-MacBook-Pro-2 forest % grep izard filescan_00.1 | wc -l
+       0
+meredith@Zipcoders-MacBook-Pro-2 forest % grep izard filescan_00.2 | wc -l
+      40
+meredith@Zipcoders-MacBook-Pro-2 forest % grep mander filescan_00.2 | wc -l
+      36
+meredith@Zipcoders-MacBook-Pro-2 forest % grep meleon filescan_00.2 | wc -l
+      37
+meredith@Zipcoders-MacBook-Pro-2 forest % grep ivys filescan_00.3 | wc -l
+      33
+meredith@Zipcoders-MacBook-Pro-2 forest % grep jigg filescan_00.3 | wc -l
+      34
+meredith@Zipcoders-MacBook-Pro-2 forest % grep meow filescan_00.3 | wc -l
+      33
+meredith@Zipcoders-MacBook-Pro-2 forest % grep pika filescan_00.3 | wc -l
+      40
+meredith@Zipcoders-MacBook-Pro-2 forest % grep psyd filescan_00.3 | wc -l
+       0
+meredith@Zipcoders-MacBook-Pro-2 forest % grep psyd filescan_00.4 | wc -l
+      37
+meredith@Zipcoders-MacBook-Pro-2 forest % grep squi filescan_00.4 | wc -l
+      34
+meredith@Zipcoders-MacBook-Pro-2 forest % grep venu filescan_00.4 | wc -l
+      32
+meredith@Zipcoders-MacBook-Pro-2 forest % grep wart filescan_00.4 | wc -l
+      37
 
 
 
